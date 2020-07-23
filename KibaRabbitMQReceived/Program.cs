@@ -10,7 +10,7 @@ namespace KibaRabbitMQReceived
 { 
     class Program
     {
-        //加个注释
+        //加个注释3
         static void Main(string[] args)
         {
             var factory = new ConnectionFactory();
